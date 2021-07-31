@@ -2,7 +2,8 @@
 
 **Prerequisites** - 
 1. google chrome version 92.X installed in the system
-2. 'git' installed 
+2. 'git' installed
+3. Python 3.x installed (in Linux it comes by default as preinstalled) 
 
 ---------------------------------------------------------------------------------------
                                         LINUX
@@ -29,6 +30,7 @@ behave -D os=linux --no-capture
 ---------------------------------------------------------------------------------------
 
 **Instructions to run the test cases on Windows**
+Open GIT bash terminal and perform the following:
 1. git clone https://github.com/PythonNovice5/TestAutomationProjectBehave
 2. cd TestAutomationProjectBehave
 3. pip install behave
