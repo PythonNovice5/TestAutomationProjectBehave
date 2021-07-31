@@ -3,7 +3,7 @@
 **Prerequisites** - 
 1. google chrome version 92.X installed in the system
 2. 'git' installed
-3. Python 3.x installed (in Linux it comes by default as preinstalled) 
+3. Python 3.x installed (in Linux it comes by default as preinstalled). For Windows it can be downloaded and installed from: https://www.python.org/downloads/
 
 ---------------------------------------------------------------------------------------
                                         LINUX
