@@ -30,6 +30,7 @@ behave -D os=linux --no-capture
 ---------------------------------------------------------------------------------------
 
 **Instructions to run the test cases on Windows**
+
 Open GIT bash terminal and perform the following:
 1. git clone https://github.com/PythonNovice5/TestAutomationProjectBehave
 2. cd TestAutomationProjectBehave
