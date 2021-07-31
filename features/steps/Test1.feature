@@ -6,9 +6,6 @@ Feature: Verify Sort and Filter
         When I store the original values for comparison
 
     Scenario Outline: Verify if the Filter and Sort are working correctly for any data
-#    Given I launch "Chrome" browser
-#    When I goto "https://mystifying-beaver-ee03b5.netlify.app" url
-#    When I store the original values for comparison
     When I enter "<filter_input>" into Filter Data
     And I verify that all records related to "<filter_input>" are returned
     When I select "Impact score" from SortData dropdown
