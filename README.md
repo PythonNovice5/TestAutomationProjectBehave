@@ -1,7 +1,7 @@
 # TestAutomationProjectBehave
 
 **Prerequisites** - 
-1. google chrome version 92.X installed in the linux system
+1. google chrome version 92.X installed in the system
 2. 'git' installed 
 
 ---------------------------------------------------------------------------------------
