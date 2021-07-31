@@ -15,7 +15,7 @@
 3. chmod 755 Drivers/unix/chromedriver
 4. sudo apt update -y
 5. sudo apt install python3-pip -y
-6. pip3 install behave
+6. sudo apt install python3-behave -y
 7. pip3 install selenium
 
 
