@@ -13,9 +13,10 @@
 1. git clone https://github.com/PythonNovice5/TestAutomationProjectBehave
 2. cd TestAutomationProjectBehave
 3. chmod 755 Drivers/unix/chromedriver
-4. sudo apt install python3-pip 
-5. pip3 install behave
-6. pip3 install selenium
+4. sudo apt update -y
+5. sudo apt install python3-pip -y
+6. pip3 install behave
+7. pip3 install selenium
 
 
 **After all the required dependancies are installed, run the test scenarios using:**
