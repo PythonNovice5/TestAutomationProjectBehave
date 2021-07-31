@@ -17,3 +17,8 @@
 **After all the required dependancies are installed, run the test scenarios using:**
 
 behave --no-capture
+
+
+**Important Details:**
+1. The test scenarios are validating all the 4 fields for the combination of sort and filter data inputs
+2. The code runs on both Windows and Linux on Chrome browser
