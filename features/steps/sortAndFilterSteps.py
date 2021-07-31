@@ -8,7 +8,8 @@ from pages.abstract import *
 @given(u'I launch "{browser_name}" browser')
 def launch(context,browser_name):
     options = webdriver.ChromeOptions();
-    exec_path_chrome = "Drivers/windows/chromedriver.exe"
+    # exec_path_chrome = "Drivers/windows/chromedriver.exe"
+    exec_path_chrome = "Drivers/unix/chromedriver"
     options.add_experimental_option("detach", True)
     context.driver = webdriver.Chrome(options=options,executable_path=exec_path_chrome)
 
